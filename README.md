@@ -3,13 +3,13 @@ My personal repository
 
 # 👋 Hi there, I'm Sam Ngugi
 
-I'm a **medical doctor**, **data analyst**, and aspiring **data scientist** blending medicine, technology, and entrepreneurship. I’m passionate about creating impactful solutions at the intersection of **healthcare, finance**, and **tech**.
+I'm a **medical doctor** and aspiring **healthcare data professional** blending medicine, technology, and entrepreneurship. I’m passionate about creating impactful solutions at the intersection of **healthcare, finance**, and **tech**.
 
 ---
 
 ## 🔎 About Me
 
-- 🎓 Medical Doctor | Future **Data Scientist**
+- 🎓 Medical Doctor | **Healthcare Data Professional in Training**
 - 🧪 Clinical researcher | Health tech innovator
 - 🌱 Passionate about: AI in health, financial health, and med ed
 
