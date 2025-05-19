@@ -1,4 +1,4 @@
-# Sam_Ngugi  
+# H-E-H-E  
 My personal repository
 
 # 👋 Hi there, I'm Sam Ngugi
